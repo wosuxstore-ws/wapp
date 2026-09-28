@@ -12,7 +12,7 @@ public class ApiConfig {
     // - Testing on a REAL PHONE, or once you've uploaded to your real
     //   hosting (GoDaddy/cPanel/etc): use the real domain, with https:
     //       "https://yourdomain.com/api/"
-    public static final String BASE_URL = "https://yourdomain.com/api/";
+    public static final String BASE_URL = "https://wosux.com/api/";
 
     public static final String LOGIN_URL            = BASE_URL + "login.php";
     public static final String GET_ORDERS_URL       = BASE_URL + "get_orders.php";
